@@ -1,9 +1,9 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ### DevOps Culture and Practice <!-- .element: class="course-title" -->
-### Tech Exercise II - Attack of the Pipelines<!-- .element: class="title-color" -->
+### Tech Practice II - Attack of the Pipelines<!-- .element: class="title-color" -->
 ### CI, CD & CD2<!-- .element: class="title-color" -->
 
-TL500 <!-- .element: class="title-color" -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- .element: class="title-color" -->
 
 
 
@@ -83,6 +83,8 @@ These actions are repeated often to ensure that the code base can **continuously
 
 ### Continuous Integration
 #### _Why do it?_
+
+
 * Automated testing reduces busy work and improves software quality.
 * Small, regular code commits reduce the number of integration problems.
 * Rapid feedback loops make it easier for new contributors to get started.
@@ -191,51 +193,13 @@ development team's duty to maintain the software.
 
 
 
-#### 🧑‍🏫 Learning Outcomes 🧑‍💻
-As a learner, I can perform the following tasks by the end of this exercise:
-* Manage Application Configs via git
-* Automatically build / bake / deploy software by using Jenkins or Tekton
-* Store secrets used by my pipeline securely in git
-
-
-
 ##### The Big Picture <!-- .element: class="title-bottom-left" -->
 <!-- .slide: data-background-size="contain" data-background-image="https://rht-labs.com/tech-exercise/2-attack-of-the-pipelines/images/big-picture-first-pipeline.jpg", class="white-style" -->
 
 
 
-## Exercise Instructions
-
-
-
-_By separating CI from CD, we will first deploy Pet Battle and its supporting infra (Keycloak) from Git by using ArgoCD's App of Apps pattern._
-
-_With this in place, we will create two pipelines, one for the front end and one for the API._
-
-_The front end (AngularJS) will use Jenkins and the back end (Quarkus with MongoDB) will use Tekton._
-
-
-
 ### 🐙 App of Apps 🐙 <!-- .element: class="title-bottom-left" -->
 <!-- .slide: data-background-size="contain" data-background-image="https://rht-labs.com/tech-exercise/2-attack-of-the-pipelines/images/test-pet-battle-apps.png", class="black-style" data-background-opacity="1"	 -->
-
-
-
-### 💥 Mob to Learn 💥
-* Ensure that you have completed at least the [Extend the UJ](https://rht-labs.com/tech-exercise/#/1-the-manual-menace/4-extend-uj?id=extend-uj-with-a-another-tool-eg-nexus) exercise from Lab 1.
-* Continue to Mob for the first two parts of this exercise.
-  * Sealed Secrets - adding secrets that are used by the pipeline with GitOps
-  * Application of Applications - setting up the config repo with which the pipeline will integrate.
-
-
-
-### 💥 Pair to build 💥
-Split into 2 groups within your team for [The Pipelines](https://rht-labs.com/tech-exercise/#/2-attack-of-the-pipelines/3-the-pipelines) section.
-
-* 🐈‍⬛ Jenkins Group 🐈‍⬛	will automate the front end components of Pet Battle.
-* 🐅 Tekton Group 🐅 will automate the back end components of the Pet Battle API.
-
-Choose your own adventure, but both groups must be successful to finish the exercise!
 
 
 

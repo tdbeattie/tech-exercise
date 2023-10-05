@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Event Storming <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 
@@ -76,7 +76,7 @@ It provides a kind of Domain Driven Design (DDD) "Lite," but with more business 
 
 ### Event Storming
 #### _Artifacts_
-* **Big Picture**: Quickly build a shared understanding of a problem space
+* Another **Big Picture**: Quickly build a shared understanding of a problem space
 * **Process Diagram**: Model business processes
 * **Aggregate Modeling**: Find the key microservices, operations, and a retrospective event model
 * **UI Modeling**: Model the flow of pages in an application

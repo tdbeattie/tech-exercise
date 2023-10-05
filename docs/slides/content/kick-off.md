@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Kick Off <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 
@@ -36,9 +36,9 @@ Meet your classmates by collaboratively drawing each other's faces.
 - Repeat the process for more facial features <!-- {.element: class="fragment"  data-fragment-index="5"} -->
   * Nose <!-- {.element: class="fragment"  data-fragment-index="5"} -->
   * Mouth <!-- {.element: class="fragment"  data-fragment-index="6"} -->
-  * Hair <!-- {.element: class="fragment"  data-fragment-index="7"} -->
-  * Ears <!-- {.element: class="fragment"  data-fragment-index="8"} -->
-  * Chin / Facial hair <!-- {.element: class="fragment"  data-fragment-index="9"} -->
+  * Eye-brows <!-- {.element: class="fragment"  data-fragment-index="7"} -->
+  * Chin / Facial hair <!-- {.element: class="fragment"  data-fragment-index="8"} -->
+  * Any other facial feature <!-- {.element: class="fragment"  data-fragment-index="9"} -->
 
 
 
@@ -54,7 +54,22 @@ Meet your classmates by collaboratively drawing each other's faces.
 
 
 
-#### While you're all standing
+## Exercise - Animals
+![Draw an animal](images/kick-off/animals.png)<!-- {.element: class="inline-image"} -->
+</br></br>
+Draw a simple representation of an animal that you feel represents your current mood.
+
+
+
+## Let's meet you!
+Introduce yourself to the group and share your animal.   
+- What is your name?
+- What is your current role within your organization?
+- Show and Tell: Share your animal drawing and the team's drawing of you!
+
+
+
+
 ### The Next Five Days...
 
 
@@ -71,7 +86,6 @@ Meet your classmates by collaboratively drawing each other's faces.
 - [Big Picture](https://openpracticelibrary.com/practice/the-big-picture/)
 - [Practice Corner]()
 - [Parking Lot (Car Park)](https://openpracticelibrary.com/practice/parking-lot-car-park/)
-- [Quote Wall](https://openpracticelibrary.com/practice/quote-wall/)
 - [Stop the World](https://openpracticelibrary.com/practice/stop-the-world-event/)
 
 
@@ -98,21 +112,6 @@ All of these things are Information Radiators - they display information in real
 - When important information is constantly accessible and visible to team members, both the speed and accuracy of their work can improve. Waste is reduced because the team spends less time searching for information.
 - It is more likely that the information is accurate because people are continuously reminded of it.
 
-
-
-## Exercise - Animals
-![Draw an animal](images/kick-off/animals.png)<!-- {.element: class="inline-image"} -->
-</br></br>
-Draw a simple representation of an animal that you feel represents your current mood.
-
-
-
-## Back to the Animals!
-Introduce yourself to the group and share your animal.   
-- What is your name?
-- Where are you from?
-- What is your current role within your organization?
-- Show and Tell: Share your animal drawing
 
 
 
@@ -170,16 +169,15 @@ Introduce yourself to the group and share your animal.
 
 - Practice Corner
 - [Parking Lot (Car Park)](https://openpracticelibrary.com/practice/parking-lot-car-park/)
-- [Quote Wall](https://openpracticelibrary.com/practice/quote-wall/)
 - [Stop the world](https://openpracticelibrary.com/practice/stop-the-world-event/)
 - [Ice Breakers](https://openpracticelibrary.com/practice/ice-breakers/)
 - Team Forming
 - [Information Radiators](https://openpracticelibrary.com/practice/visualisation-of-work/)
-   
+- [Backlog](https://openpracticelibrary.com/practice/backlog-refinement/)
+
 </div>
 <div class="col" data-markdown>
 
-- [Backlog](https://openpracticelibrary.com/practice/backlog-refinement/)
 - [Work Visualization](https://openpracticelibrary.com/practice/visualisation-of-work/)
 - [Burndown](https://openpracticelibrary.com/practice/burndown/)
 - [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)

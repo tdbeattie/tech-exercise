@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Social Contract <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 
@@ -42,7 +42,7 @@ TL500 <!-- {.element: class="title-color"} -->
 ![who-team-logo](images/social-contracts/who-team-logo.png) <!-- {.element: class="inline-image" style="float:right; transform: rotate(-50deg);"} -->
 * Team name
 * Team logo 
-* Common mission statement
+* Common mission statement / slogan
 * Team swag!
 * Personal User Manuals / Team APIs
 * A Social Contract
@@ -96,6 +96,7 @@ If you work on multiple teams, think about the aspects of your Social Contract t
     - Choose a team name
     - Discuss how you want to work together this week
     - Write your Social Contract
+    - Come up with a team slogan
     - Record your team button
 </br></br>
 2. Think about any aspects of your Social Contract that are appropriate for the entire class so that we can write the class Social Contract.

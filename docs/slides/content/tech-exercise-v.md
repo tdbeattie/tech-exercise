@@ -2,7 +2,7 @@
 ### DevOps Culture and Practice <!-- .element: class="course-title" -->
 ### Tech Exercise V - The Deployments Strike Back  <!-- .element: class="title-color" -->
 ### Advanced Deployments & Scalability <!-- .element: class="title-color" -->
-TL500 <!-- .element: class="title-color" -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- .element: class="title-color" -->
 
 
 

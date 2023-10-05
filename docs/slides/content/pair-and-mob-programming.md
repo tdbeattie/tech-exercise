@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Pair and Mob Programming <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 
@@ -92,7 +92,7 @@ works on the same thing concurrently, and at the same computer.
 
 1. Everyone grab a small sticky note.
 2. Each person grab a different color pen.
-3. Draw Steven Tyler on your own sticky note.
+3. Draw Elvis Presley on your own sticky note.
 
 
 
@@ -100,7 +100,7 @@ works on the same thing concurrently, and at the same computer.
 
 1. Assemble in pairs (or trios if there is an odd number).
 2. Each pair grab a medium sticky note.
-3. Take turns drawing an element of Steven Tyler.
+3. Take turns drawing an element of Elvis Presley.
 
 
 
@@ -108,7 +108,7 @@ works on the same thing concurrently, and at the same computer.
 
 1. Assemble in table groups.
 2. Each table grab an easel pad.
-3. Take turns drawing an element of Steven Tyler.
+3. Take turns drawing an element of Elvis Presley.
 
 
 

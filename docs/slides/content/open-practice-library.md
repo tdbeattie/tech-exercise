@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Open Practice Library <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 

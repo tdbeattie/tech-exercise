@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### Pet Battle <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Aramco DevOps Culture Workshops, 01-05 October 2023 <!-- {.element: class="title-color"} -->
 
 
 
@@ -97,7 +97,7 @@ This is going to feel overwhelming, but we're going to give you a trailer of the
 
 
 
-#### Together we will create a foundation of technology to support our continuous journey
+#### Together we will explore a foundation of technology to support our continuous journey
 
 
 
@@ -121,7 +121,7 @@ This is going to feel overwhelming, but we're going to give you a trailer of the
 
 
 
-#### Together we will discover all the work that needs to be done
+#### Together we will discover all the work that needs to be done to build the right thing, to build the thing right and to build it fast and safe.
 
 
 
@@ -169,7 +169,7 @@ This is going to feel overwhelming, but we're going to give you a trailer of the
 
 
 
-#### Together we will deliver and measure the most important work
+#### Together we will learn to deliver and measure the most important work
 
 
 
